@@ -1,0 +1,5 @@
+{
+    "source": "products",
+    "target": "silver_products",
+    "mode": "overwrite"
+}

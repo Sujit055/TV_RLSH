@@ -1,0 +1,5 @@
+{
+    "source": "transactions",
+    "target": "silver_transactions",
+    "mode": "merge"
+}
