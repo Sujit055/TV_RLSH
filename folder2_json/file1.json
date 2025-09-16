@@ -1,5 +1,6 @@
 {
     "source": "transactions",
     "target": "silver_transactions",
-    "mode": "merge"
+    "mode": "merge",
+    "path": "/mnt/datalake/silver/transactions/"
 }
